@@ -7,3 +7,4 @@ pytz
 Quart
 Quart-Session
 Telethon
+gunicorn
